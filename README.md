@@ -1,7 +1,7 @@
 # BD
 Database project - Formula 1.
 
-This project involves the complete development of a Database involing a Formula 1 competition.
+This project involves the complete development of a Database involving a Formula 1 competition.
 
 It contains :
 
